@@ -18,12 +18,12 @@ arches:
     name: apr-util
     evr: 1.6.3-21.el10
     sourcerpm: apr-util-1.6.3-21.el10.src.rpm
-  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi10/10/x86_64/appstream/os/Packages/h/httpd-tools-2.4.63-4.el10.x86_64.rpm
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi10/10/x86_64/appstream/os/Packages/h/httpd-tools-2.4.63-4.el10_1.3.x86_64.rpm
     repoid: ubi-10-for-x86_64-appstream-rpms
-    size: 84871
-    checksum: sha256:f6864e10d87a89234880ba7fb54dd445ed415c1948ffba1313d38406005f7ac2
+    size: 84484
+    checksum: sha256:bae333989df3a6d531cffd83e89c00a9a4c5d71d6b8539d6dc6509b365d6f02a
     name: httpd-tools
-    evr: 2.4.63-4.el10
-    sourcerpm: httpd-2.4.63-4.el10.src.rpm
+    evr: 2.4.63-4.el10_1.3
+    sourcerpm: httpd-2.4.63-4.el10_1.3.src.rpm
   source: []
   module_metadata: []
