@@ -4,26 +4,26 @@ lockfileVendor: redhat
 arches:
 - arch: x86_64
   packages:
-  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi10/10/x86_64/appstream/os/Packages/a/apr-1.7.5-2.el10.x86_64.rpm
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi10/10/x86_64/appstream/os/Packages/a/apr-1.7.5-3.el10.x86_64.rpm
     repoid: ubi-10-for-x86_64-appstream-rpms
-    size: 135127
-    checksum: sha256:78d172a7df43492ef2f2cef911d6cb7dae9a7df1673a8a11f7825e1c21d3b0c3
+    size: 130333
+    checksum: sha256:fa3e93365206a18e39fcb76787f4027a7537f7d3a2e4eb28346082a46c3ac57c
     name: apr
-    evr: 1.7.5-2.el10
-    sourcerpm: apr-1.7.5-2.el10.src.rpm
-  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi10/10/x86_64/appstream/os/Packages/a/apr-util-1.6.3-21.el10.x86_64.rpm
+    evr: 1.7.5-3.el10
+    sourcerpm: apr-1.7.5-3.el10.src.rpm
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi10/10/x86_64/appstream/os/Packages/a/apr-util-1.6.3-23.el10_1.x86_64.rpm
     repoid: ubi-10-for-x86_64-appstream-rpms
-    size: 103881
-    checksum: sha256:7fc6733f2a2f52ba71c93ae6c6b4548192e328d123fbc9753d9c3496cc3073ce
+    size: 105897
+    checksum: sha256:4f5b154b4b969d98a72d70c7ee8135ee4ba872af715d0ab24d316557b258ef88
     name: apr-util
-    evr: 1.6.3-21.el10
-    sourcerpm: apr-util-1.6.3-21.el10.src.rpm
-  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi10/10/x86_64/appstream/os/Packages/h/httpd-tools-2.4.63-4.el10.x86_64.rpm
+    evr: 1.6.3-23.el10_1
+    sourcerpm: apr-util-1.6.3-23.el10_1.src.rpm
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi10/10/x86_64/appstream/os/Packages/h/httpd-tools-2.4.63-13.el10_2.4.x86_64.rpm
     repoid: ubi-10-for-x86_64-appstream-rpms
-    size: 84871
-    checksum: sha256:f6864e10d87a89234880ba7fb54dd445ed415c1948ffba1313d38406005f7ac2
+    size: 93230
+    checksum: sha256:7b6a514cfe114a9d971343b79996de014ed09c9b0a3a4c44e88a5136c259ee31
     name: httpd-tools
-    evr: 2.4.63-4.el10
-    sourcerpm: httpd-2.4.63-4.el10.src.rpm
+    evr: 2.4.63-13.el10_2.4
+    sourcerpm: httpd-2.4.63-13.el10_2.4.src.rpm
   source: []
   module_metadata: []
