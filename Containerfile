@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi10/ubi@sha256:8405dd7146117f019670429f93ce044f0839f47ff81ec45bb53cf528f1f6ce11
+FROM registry.access.redhat.com/ubi10/ubi@sha256:802583cce6369422f62434fccd9bf310655c065cc9f4f60a007faf095e57afc7
 
 # Check if the build is performed in hermetic environment
 # (without access to the internet)
